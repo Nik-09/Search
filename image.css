@@ -1,0 +1,51 @@
+a{
+    text-decoration: none;
+}
+#image{
+    margin-left: 90%;
+    margin-top: 2%;
+    padding-bottom: 2px;
+    font-size: 2.5ex;
+}
+#advance{
+    margin-left: 90%;
+    font-size: 2.5ex;
+}
+#query{
+    width: 30%;
+    margin-left: 35%;
+    height: 50px;
+    border-radius: 100px;
+    border-color: gray;
+    
+}
+#logo{
+    margin-top: 50px;
+    text-align: center;
+}
+img{
+    width: 350px;
+}
+#submit{
+    width: 10%;
+    height: 40px;
+    margin-left: 45%;
+    margin-top: 15px;
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+#lucky{
+    border: 1px solid #595959;
+    width: 100px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    color: black;
+}
+#lucky:hover{
+    background-color: #e6e6e6;
+}
+input{
+    font-size: 20px;
+    outline-style: none;
+}

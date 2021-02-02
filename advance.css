@@ -1,0 +1,18 @@
+img{
+    width: 100px;
+}
+#logo{
+    background-color:#e6e6e6;
+}
+#links{
+    margin-left: 90%;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
+#name{
+    color: red;
+    font-size: 25px;
+    margin-left: 1%;
+}
